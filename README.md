@@ -16,7 +16,7 @@ Classes: 3 (setosa, versicolor, virginica)
 
 O Iris Dataset é um dos conjuntos de dados mais famosos na área de machine learning, introduzido pelo estatístico Ronald Fisher em 1936.
 
-🛠️ Tecnologias Utilizadas
+🛠️Tecnologias Utilizadas
 Python 3.8+
 Pandas - Manipulação de dados
 NumPy - Operações numéricas
