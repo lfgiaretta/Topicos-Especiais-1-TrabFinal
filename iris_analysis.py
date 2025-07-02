@@ -1,6 +1,3 @@
-# Análise do Iris Dataset - Mineração de Dados
-# Trabalho de Tópicos Especiais em Computação I
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
